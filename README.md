@@ -100,6 +100,7 @@ Berikut codingan untuk menghitung depresiasi:
             if(hasil_depresiasi){
                 $(".hd").val(hasil_depresiasi)
             }
+                                                        
         }
 
         $('.btn-hitung').on('click',function(){
