@@ -1,5 +1,7 @@
 # menghitung-depresiasi-web
 
+Berikut codingan untuk menghitung depresiasi:
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
